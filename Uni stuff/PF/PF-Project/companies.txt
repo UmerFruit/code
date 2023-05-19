@@ -1,0 +1,38 @@
+Symbol,Company Name,Stock Price
+ATRL,Attock Refinery Ltd.,221.33
+AVN,Avanceon Ltd. CON,93.2
+BAHL,Bank AL-Habib Ltd.,51.36
+CHCC,Cherat Cement Co. Ltd.,133.84
+DAWH,Dawood Hercules Corp. Ltd. CON,84.43
+DGKC,D. G. Khan Cement Co. Ltd.,36.2
+EFERT,Engro Fertilizers Ltd.,70.1
+ENGRO,Engro Corp. Ltd. CON,209.76
+FFBL,Fauji Fertilizer Bin Qasim Ltd. CON,11.96
+FFC,Fauji Fertilizer Co. Ltd. CON,140.88
+GHNI,Ghandhara IND Ltd.,118.61
+HBL,Habib Bank Ltd.,60.76
+HUBC,The Hub Power Co. Ltd. CON,64.85
+ICI,I.C.I Pakistan Ltd. CON,829.63
+IGIHL,IGI Holdings Ltd. CON,82.37
+INIL,International IND Ltd. CON,89.03
+ISL,International Steels Ltd.,45.98
+KAPCO,Kot Addu Power Co. Ltd.,24.76
+LUCK,Lucky Cement Ltd. CON,608.84
+MARI,Mari Petroleum Co. Ltd.,2106.63
+MCB,MCB Bank Ltd.,122.2
+MEBL,Meezan Bank Ltd.,92.71
+MLCF,Maple Leaf Cement Factory Ltd. CON,31.27
+MTL,Millat Tractors Ltd. CON,740.1
+NML,Nishat Mills Ltd. CON,65.37
+OGDC,Oil & Gas Dev Co. Ltd.,65.9
+PAEL,Pak Elektron Ltd.,9.29
+PIOC,Pioneer Cement Ltd.,65.69
+PKGS,Packages Ltd. CON,450.02
+POL,Pakistan Oilfields Ltd.,522.44
+PPL,Pakistan Petroleum Ltd.,53.85
+PSO,Pakistan State Oil Co. Ltd. CON,151.29
+SEARL,The Searl Co. Ltd. CON,75.75
+SYS,Systems Ltd.,473.52
+TRG,TRG Pakistan Ltd.,140.79
+UBL,United Bank Ltd.,137.74
+UNITY,Unity Foods Ltd.,12.45
