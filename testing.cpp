@@ -1,32 +1,48 @@
 #include <iostream>
 using namespace std;
-class x
+class a
 {
-    int d;
-    public:
-    x(int l=5):d(l){}
-    friend void operator >>(ostream& lol,x& obj);
+private:
+    /* data */
+public:
+    a() { cout << "a ctor." << endl; }
+     ~a()
+    {
+        cout << "a dtor." << endl;
+    }
 };
-void operator >>(ostream& lol,x& obj)
-{
-    lol<<obj.d;
-}
 
+class b : public a
+{
+private:
+    /* data */
+public:
+    b() { cout << "b ctor." << endl; }
+    ~b() { cout << "b dtor." << endl; }
+};
+class c : public b
+{
+private:
+    /* data */
+public:
+    c() { cout << "c ctor." << endl; }
+    ~c() { cout << "c dtor." << endl; }
+};
+class d : public c
+{
+private:
+    /* data */
+public:
+    d() { cout << "d ctor." << endl; }
+    ~d() { cout << "d dtor." << endl; }
+};
 
 int main()
 {
-    x saifi;
-    cout>>saifi;
-
-}
-int fact(int n)
-{
-    if(n==1)
-    {
-        return 1;
-    }
-    else
-    {
-        return n*fact(n-1);
-    }
+    int a = 5;
+   int* const ptr = &a;
+   *ptr = 68;
+   int b= 20;
+   ptr = &b;
+    
 }
