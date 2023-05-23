@@ -6,7 +6,7 @@ private:
     /* data */
 public:
     a() { cout << "a ctor." << endl; }
-     ~a()
+    ~a()
     {
         cout << "a dtor." << endl;
     }
@@ -40,9 +40,8 @@ public:
 int main()
 {
     int a = 5;
-   int* ptr = &a;
-   *ptr = 68;
-   int b= 20;
-   ptr = &b;
-    
+    int *ptr = &a;
+    int **dp = &ptr;
+    cout<<(**&*&*dp);
+
 }

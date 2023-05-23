@@ -32,7 +32,6 @@ Public Functions:
         Checks if the first 100 elements of two hashes are equal.
     Destructor:
         Appropriately deallocates the dynamic memory
-
 */
 #include <iostream>
 using namespace std;
