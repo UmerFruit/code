@@ -40,7 +40,7 @@ public:
 int main()
 {
     int a = 5;
-   int* const ptr = &a;
+   int* ptr = &a;
    *ptr = 68;
    int b= 20;
    ptr = &b;
