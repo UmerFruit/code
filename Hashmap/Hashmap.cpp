@@ -17,7 +17,6 @@ Private Functions:
         It works the same way as Rotateplane but just works on sheets instead of planes.
     NOTE: They return the this pointer to make use of cascading calls.
 Public Functions:
-
     Transform: 
         Divides the 1600 element input into 25 element chunks to store in the 3D array. e.g if input chunk is "abcdefghijklmnopqrstuvwxy" it should be stored as:
         a b c d e
