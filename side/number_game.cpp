@@ -1,12 +1,11 @@
-#include <iostream>
-#include <ctime>
-#include <cmath>
-#include <unistd.h>
+#include "Headers.h"
 using namespace std;
 int main()
 {
     srand(time(0));
     int counter = 1;
+    cout<<"Press any key to start."<<endl;
+    getch();
     while (1)
     {
         system("clear");
@@ -34,4 +33,5 @@ int main()
             break;
         }
     }
+    cout<<"Made by Umer Barood"<<endl;
 }
