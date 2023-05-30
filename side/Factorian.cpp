@@ -11,7 +11,6 @@ using namespace std;
 int sumstore(int num);
 int factorial (int num);
 int numdig(int num);
-int sumstore(int num);
 
 int main()
 {
