@@ -10,7 +10,6 @@
 #include <termios.h>
 #include <unistd.h>
 #include <stdio.h>
-using namespace std;
 /* reads from keypress, doesn't echo */
 int getch(void)
 {

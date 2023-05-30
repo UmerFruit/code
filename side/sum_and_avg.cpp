@@ -13,8 +13,8 @@ cin>>e;                                 //HMMM I WONDER WHAT C-IN MEANSSS
 cout<<e<<endl;
 sum=a+b+c+d;                     // we are summing and taking avg of the numbers. 
 avg=sum/4;                       // we dont really need a computer for 
-.                                //that unless you'r a dummy like me
-cout<<"the sum is "<<sum<<endl;  // scanf the shit out of the sum and avg
+                                //that unless you'r a dummy like me
+cout<<"the sum is "<<sum<<endl;  // printf the shit out of the sum and avg
 cout<<"the avg is "<<avg;        // i do hope you atleast know how to read XD
 
 }
